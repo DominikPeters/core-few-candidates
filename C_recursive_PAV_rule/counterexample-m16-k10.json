@@ -1,0 +1,190 @@
+[
+  {
+    "history": "(((0, 1, 2, 3, 4, 5, 6, 7, 8, 9), (0, 10, 11)), ((0, 1, 2, 3, 4, 5, 6, 10, 11, 12), (13, 14, 15)), ((0, 1, 2, 3, 10, 11, 12, 13, 14, 15), (4, 5, 6, 7, 8)))",
+    "contradiction": true,
+    "time": 7812.3,
+    "num_voters": 40448550,
+    "profile": [
+      {
+        "ballot": "(0, 7, 10, 11)",
+        "frequency": 744068
+      },
+      {
+        "ballot": "(0, 8, 10, 11)",
+        "frequency": 705251
+      },
+      {
+        "ballot": "(0, 9, 10, 11)",
+        "frequency": 467954
+      },
+      {
+        "ballot": "(0, 10)",
+        "frequency": 5108646
+      },
+      {
+        "ballot": "(0, 11)",
+        "frequency": 3012390
+      },
+      {
+        "ballot": "(0, 11, 13, 14, 15)",
+        "frequency": 2096256
+      },
+      {
+        "ballot": "(1,)",
+        "frequency": 2255533
+      },
+      {
+        "ballot": "(1, 2, 4, 6, 7, 8, 12)",
+        "frequency": 1046110
+      },
+      {
+        "ballot": "(1, 2, 5, 6, 8)",
+        "frequency": 28930
+      },
+      {
+        "ballot": "(1, 3, 4, 5, 7)",
+        "frequency": 947360
+      },
+      {
+        "ballot": "(1, 3, 4, 6, 7)",
+        "frequency": 46399
+      },
+      {
+        "ballot": "(1, 4, 5, 6, 12)",
+        "frequency": 858167
+      },
+      {
+        "ballot": "(1, 5, 6)",
+        "frequency": 42675
+      },
+      {
+        "ballot": "(1, 9, 13, 14)",
+        "frequency": 219209
+      },
+      {
+        "ballot": "(1, 9, 13, 15)",
+        "frequency": 220620
+      },
+      {
+        "ballot": "(1, 9, 14, 15)",
+        "frequency": 220621
+      },
+      {
+        "ballot": "(2,)",
+        "frequency": 640966
+      },
+      {
+        "ballot": "(2, 3, 4, 5, 6, 8, 12)",
+        "frequency": 7637704
+      },
+      {
+        "ballot": "(2, 3, 5, 6, 7)",
+        "frequency": 899867
+      },
+      {
+        "ballot": "(2, 3, 7, 9, 13, 14, 15)",
+        "frequency": 145574
+      },
+      {
+        "ballot": "(2, 3, 8, 13, 14, 15)",
+        "frequency": 101558
+      },
+      {
+        "ballot": "(2, 4, 7)",
+        "frequency": 137
+      },
+      {
+        "ballot": "(2, 5, 7)",
+        "frequency": 2743
+      },
+      {
+        "ballot": "(2, 7, 13, 14)",
+        "frequency": 90232
+      },
+      {
+        "ballot": "(2, 7, 13, 15)",
+        "frequency": 12271
+      },
+      {
+        "ballot": "(2, 9, 13, 14)",
+        "frequency": 296048
+      },
+      {
+        "ballot": "(2, 9, 13, 15)",
+        "frequency": 374009
+      },
+      {
+        "ballot": "(2, 9, 14, 15)",
+        "frequency": 386279
+      },
+      {
+        "ballot": "(2, 12)",
+        "frequency": 268778
+      },
+      {
+        "ballot": "(3,)",
+        "frequency": 131075
+      },
+      {
+        "ballot": "(3, 4, 5, 7, 12)",
+        "frequency": 1208787
+      },
+      {
+        "ballot": "(3, 7, 13, 15)",
+        "frequency": 77958
+      },
+      {
+        "ballot": "(3, 7, 14, 15)",
+        "frequency": 90232
+      },
+      {
+        "ballot": "(3, 9, 13, 14)",
+        "frequency": 451967
+      },
+      {
+        "ballot": "(3, 9, 13, 15)",
+        "frequency": 374009
+      },
+      {
+        "ballot": "(3, 9, 14, 15)",
+        "frequency": 361737
+      },
+      {
+        "ballot": "(3, 12)",
+        "frequency": 360324
+      },
+      {
+        "ballot": "(4, 5, 7, 8, 13, 14, 15)",
+        "frequency": 2378021
+      },
+      {
+        "ballot": "(4, 6, 7, 8, 9, 13, 14, 15)",
+        "frequency": 2229087
+      },
+      {
+        "ballot": "(5, 6, 7, 8, 9, 13, 14, 15)",
+        "frequency": 1415973
+      },
+      {
+        "ballot": "(5, 6, 7, 8, 13, 14, 15)",
+        "frequency": 591489
+      },
+      {
+        "ballot": "(6, 7, 12)",
+        "frequency": 890843
+      },
+      {
+        "ballot": "(7, 9, 12, 13, 14)",
+        "frequency": 1413
+      },
+      {
+        "ballot": "(7, 9, 12, 13, 15)",
+        "frequency": 2
+      },
+      {
+        "ballot": "(9, 12)",
+        "frequency": 1009278
+      }
+    ]
+  }
+]

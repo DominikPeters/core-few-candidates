@@ -1,0 +1,4 @@
+tqdm
+gurobipy
+gmpy2
+jupyterlab
